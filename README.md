@@ -1,4 +1,4 @@
-# LightHall challenge 1
+# LightHall Challenge #1
 The objective of this challenge was to deploy a web page with a click count and ensure that the click count would not reset on refresh.
 
 # Technologies Used
