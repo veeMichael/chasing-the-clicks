@@ -6,6 +6,7 @@ I used Django as my backend and Vanilla JS for my frontend.
 
 # Features
 Click counter that persists even after refreshing the page
+
 Deployed on Heroku
 
 # Demo
