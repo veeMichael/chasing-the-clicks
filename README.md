@@ -15,14 +15,14 @@ You can view a live demo of the app here: https://mv-chasing-clicks.herokuapp.co
 # Installation and Usage
 To install and run the app locally:
 
-Clone the repository
+1. Clone the repository
 
-Create and activate a virtual environment
+2. Create and activate a virtual environment
 
-set up your own SECRET_KEY in settings.py
+3. set up your own SECRET_KEY in settings.py
 
-Install the required packages by running pip install -r requirements.txt
+4. Install the required packages by running pip install -r requirements.txt
 
-Run the Django development server by running python manage.py runserver
+5. Run the Django development server by running python manage.py runserver
 
-Navigate to http://localhost:8000/ in your web browser to view the app
+6. Navigate to http://localhost:8000/ in your web browser to view the app
