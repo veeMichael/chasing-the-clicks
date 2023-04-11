@@ -11,7 +11,7 @@ Deployed on Heroku
 # Demo
 You can view a live demo of the app here: https://mv-chasing-clicks.herokuapp.com
 
-#Installation and Usage
+# Installation and Usage
 To install and run the app locally:
 
 Clone the repository
