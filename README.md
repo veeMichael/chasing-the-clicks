@@ -15,6 +15,7 @@ You can view a live demo of the app here: https://mv-chasing-clicks.herokuapp.co
 To install and run the app locally:
 
 Clone the repository
+
 Create and activate a virtual environment
 
 set up your own SECRET_KEY in settings.py
