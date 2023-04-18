@@ -10,7 +10,7 @@ Click counter that persists even after refreshing the page
 Deployed on Heroku
 
 # Demo
-You can view a live demo of the app here: https://mv-chasing-clicks.herokuapp.com
+You can view a live demo of the app here: https://mv-chasing-clicks.herokuapp.com // website down currently
 
 # Installation and Usage
 To install and run the app locally:
